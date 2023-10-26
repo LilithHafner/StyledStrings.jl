@@ -1,5 +1,7 @@
 # This file is a part of Julia. License is MIT: https://julialang.org/license
 
+# Hi!
+
 module StyledStrings
 
 import Base: AnnotatedString, AnnotatedChar, annotations, annotate!,
